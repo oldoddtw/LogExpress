@@ -1,5 +1,5 @@
 ![LogExpress logo](./90_image/lx_logo.png)
-> A Mettler Toledo instrument data capture system designed for grassroots and disadvantaged users, and it is the only shared software of its kind. Officially announced on 2023/11/01.
+> A Mettler Toledo equipment data capture system specifically designed for underserved users at the grassroots level with limited IT skills and cost constraints, and it is the only personally developed shared software of its kind among similar systems.
 <!-- Live demo [_here_](https://www.example.com).--> 
 <!-- If you have the project hosted somewhere, include the link here. -->
 
@@ -59,7 +59,8 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+- Officially announced on 2023/11/01.
+- Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
 
 
 ## Room for Improvement
