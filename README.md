@@ -1,5 +1,5 @@
 ![LogExpress logo](./90_image/lx_logo.png)
-> A Mettler Toledo equipment data capture system specifically designed for underserved users at the grassroots level with limited IT skills and cost constraints, and it is the only personally developed shared software of its kind among similar systems.
+> A Mettler Toledo balance, moisture analyzer, and pH meter equipment data acquisition system, specially designed for grassroots users with limited IT skills and budget constraints. It is also the only shared software of its kind developed by an individual.
 <!-- Live demo [_here_](https://www.example.com).--> 
 <!-- If you have the project hosted somewhere, include the link here. -->
 
