@@ -26,6 +26,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Before You Begin
+- This system supports 52 language interfaces, but the native development location is Taiwan, so you can contact me directly in Traditional Chinese/Simplified Chinese/English, or communicate on the discussion board.
+- Driven by the ideal of public welfare and the hope to help more grassroots users, this system comes with a built-in vocabulary database and special bilingual function to achieve better localization through a friendly interface. For detailed information, please refer to the documents in the 'Language' folder. 
+- Thanks to Google Translate, it brings people closer. However, because the initial versions of each language in the database come from machine translation, there must be errors or inappropriate problems. If you are willing to make corrections and improvements to anyone language, please contact me. I would greatly appreciate your support.
+- LogExpress is developed according to decades experiences and industry requirements, aiming to align with industry practices and regulatory requirements as much as possible. But after all, it is a shared software developed by individual in my spare time. You are welcome to provide any suggestions for debugging, correction, function expansion or optimization. I have listed the features that users and testers would like to see added in a Wishlist on the discussion board.
+
 <!-- some important things before begining -->
 
 ## License
