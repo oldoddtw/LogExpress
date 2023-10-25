@@ -3,8 +3,9 @@
 <!-- Live demo [_here_](https://www.example.com).--> 
 <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Table of Contents
+## Contents
 * [Why LogExpress?](#why-logexpress)
+* [Before You Begin](#before-you-begin)
 * [License](#license)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
@@ -23,6 +24,9 @@
 - What is the purpose of your project?
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Before You Begin
+<!-- some important things before begining -->
 
 ## License
 <!-- This project is open source and available under the [... License](). -->
