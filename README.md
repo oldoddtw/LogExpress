@@ -58,7 +58,7 @@ The brief features are as follows. See the files in the [02_Features_Function] f
 ## Setup
 The installation process of LogExpress is simple.
 1. Apply for a registration code.
-    +  Please send an email to [Register](mailto:service@logexpress.tw) to apply for a registration code. Please indicate the following information in the letter:
+    +  Please send an email to [Register](mailto:service@logexpress.tw?subject=Apply-for-register-code) to apply for a registration code. Please indicate the following information in the letter:
       > * Your country
       > * Your full name
       > * The software will be used by individual, or your organization (please indicate the name of the organization)
