@@ -19,7 +19,7 @@
 ## Before You Begin
 - Please communicate on the discussion board or contact me directly in Simplified Chinese/Traditional Chinese/English.
 - Driven by the ideal of public welfare and the hope to help more grassroots users, this system comes with a built-in 52 languages vocabulary database and special bilingual function to achieve better localization through a friendly interface. For detailed information, please refer to the documents in the [01_Language_语言] folder.
-- Thanks to Google Translate, it brings people closer. However, because the initial versions of each language in the database come from machine translation, there must be errors or inappropriate problems. If you are willing to make corrections and improvements to anyone language, please contact me. I would greatly appreciate your support.
+- Thanks to Google Translate, it brings people closer. However, because the initial versions of each language in the database come from machine translation, there must be errors or inappropriate problems. If you are willing to make corrections and improvements to anyone language, I would greatly appreciate your support.
 - LogExpress is developed according to decades of experiences and industry requirements, aiming to align with industry practices and regulatory requirements as much as possible. But after all, it is a shared software developed by individual in my spare time. You are welcome to provide any suggestions for debugging, correction, function expansion or optimization. I have listed the features that users and testers would like to see added in a Wishlist on the discussion board.
 <br>
 
