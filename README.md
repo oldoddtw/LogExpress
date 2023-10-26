@@ -53,8 +53,7 @@ The brief features are as follows. See the files in the [02_Features_Function] f
 
 ## License
 - This shareware is provided under the terms of the LogExpress End User License Agreement (EULA). Use of this software requires your acceptance of our EULA which is enclosed in the software. 
-- In the spirit of public contribution and to help more METTLER fans and instrument users, this software is released as a shareware in the form of EULA, with freely available authorization code, and with no limitations on its functionality or expiration date. I hope it can be of assistance to every METTLER owner. <br><br>
-May the Force be with you.
+- In the spirit of public contribution and to help more METTLER fans and instrument users, this software is released as a shareware in the form of EULA, with freely available authorization code, and with no limitations on its functionality or expiration date. I hope it can be of assistance to every METTLER owner. 
 <br>
 
 ## Setup
@@ -74,12 +73,13 @@ The installation process of LogExpress is simple.
 <br>
 
 ## Project Status
+- Open for testing on 2023/03/12.
 - Officially announced on 2023/11/01.
-- Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-<br>
+- The focus of the next stage: WebService, I/O control, OPC. Other topics are listed in the wishlist.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me.
+Created by [@Chris Hu](https://www.logexpress.tw/) - feel free to contact me.<br><br>
+May the Force be with you.
 
 <!-- Optional -->
 <!-- ## Room for Improvement -->
