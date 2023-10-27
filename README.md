@@ -21,7 +21,7 @@ As a tool software oriented by end-user daily needs and specially designed for s
 <br><br>
 Based on respecting users' choices and investment costs, LogExpress has established basic information for nearly 500 models, allowing for quick identification of models and a seamless transition to usage. From older to newer, from entry-level to high-end models, users can easily manage their devices and leverage the cost-effectiveness of METTLER instruments. This not only satisfies owners but also prevents resource waste and protects our environment.
 <br><br>
-LogExpress is developed according to decades of experiences and industry requirements, aiming to align with industry practices and regulatory requirements as much as possible. But after all, it is a shared software developed by individual in my spare time. You are welcome to provide any suggestions for debugging, correction or optimization.
+LogExpress is developed according to decades of experiences and industry requirements, aiming to align with industry practices and regulatory requirements as much as possible. But after all, it is a shared software developed by individual in my spare time. If you have any ideas for debugging, improvement, feature expansion, or any other suggestions, please feel free to contact me at any time. I would greatly appreciate your valuable feedback.
 <br><br>
 
 ## Features
