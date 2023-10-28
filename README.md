@@ -80,7 +80,7 @@ The installation process of LogExpress is simple.
 
 ## Contact
 Please communicate on the discussion board or feel free to contact me directly in Chinese/English.<br>
-[LogExpress Website](https://www.logexpress.tw/)
+[LogExpress Website](https://www.logexpress.tw/) <br>
 [@Chris Hu](mailto:service@logexpress.tw) <br><br>
 May the Force be with you.
 
