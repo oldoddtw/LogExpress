@@ -79,8 +79,9 @@ The installation process of LogExpress is simple.
 <br><br>
 
 ## Contact
-Please communicate on the discussion board or contact me directly in Simplified Chinese/Traditional Chinese/English.<br>
-Created by [@Chris Hu](https://www.logexpress.tw/) - feel free to contact me.<br><br>
+Please communicate on the discussion board or feel free to contact me directly in Chinese/English.<br>
+[LogExpress Website](https://www.logexpress.tw/)
+[@Chris Hu](mailto:service@logexpress.tw) <br><br>
 May the Force be with you.
 
 <!-- Optional -->
