@@ -40,7 +40,7 @@ The brief features are as follows. See the files in the [02_Features_Function] f
 <br><br>
 
 ## Language
-- Driven by the idea of public contribution and the hope to help more grassroots users, this system comes with a built-in 52 languages vocabulary database and special bilingual function to achieve better localization through a friendly interface. For detailed information, please refer to the documents in the [01_Language_语言] folder.
+- Driven by the ideal of public contribution and the hope to help more grassroots users, this system comes with a built-in 52 languages vocabulary database and special bilingual function to achieve better localization through a friendly interface. For detailed information, please refer to the documents in the [01_Language_语言] folder.
 - Thanks to Google Translate, it brings people closer. However, because the initial versions of each language in the database come from machine translation, there must be errors or inappropriate problems. If you are willing to make corrections and improvements to anyone language, I would greatly appreciate your support.
 <br><br>
 
