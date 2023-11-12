@@ -27,7 +27,7 @@ LogExpress is developed according to decades of experiences and industry require
 ## Features
 The brief features are as follows. See the files in the [02_Features_Function] folder for details.
 - Supporting METTLER TOLEDO balances, halogen moisture analyzers, pH meters and printers.
-- Utilizing an MS SQL Express Server database for secure data storage.
+- Utilizing an Microsoft SQL Server Express database for secure data storage.
 - Providing support for over 50 default languages and one customized language. Offering a unique bilingual feature for logs and interface.
 - Handling up to 40 devices concurrently without type, model, or license restrictions.
 - Automatically detecting and identifying over 450 device models. Including basic specifications and tolerance informations.
