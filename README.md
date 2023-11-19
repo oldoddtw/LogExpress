@@ -51,8 +51,9 @@ The brief features are as follows. See the files in the [02_Features_Function] f
 <br><br>
 
 ## License
-- This shareware is provided under the terms of the LogExpress End User License Agreement (EULA). Use of this software requires your acceptance of our EULA which is enclosed in the software. 
-- In the spirit of public contribution and to help more METTLER fans and instrument users, this software is released as a shareware in the form of EULA, with freely available authorization code, and with no limitations on its functionality or expiration date. I hope it can be of assistance to every METTLER instrument owner. 
+- LogExpress (LX) is available for use in a non-profit, shareware format and is distributed under the terms of the End User License Agreement(EULA).
+- For the purpose of public welfare and to help more METTLER users, LX is free to request a registration code, which has 14 days of full functional use before the registration process is completed, and there is no functional restriction or expiration date after the registration is completed. I hope it can be of assistance to every METTLER instrument owner. 
+- Please refer to the steps in the [Setup] section to obtain the registration code.
 <br><br>
 
 ## Setup
