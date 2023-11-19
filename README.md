@@ -65,7 +65,6 @@ The installation process of LogExpress is simple.
       > * The software will be used by individual, or your organization (please indicate the name of the organization)
       > * The model and quantity of instruments you intend to connect.
       > * The main purpose of using this software.
-      > * The number of registration codes you require.
 
     +  The above information will be kept confidential in compliance with the Personal Information Protection Act and will not be used for other commercial purposes. It is mainly used to statistically evaluate the suitability of software for users. And when you encounter technical problems, I can provide appropriate assistance based on correct information.
 2. After receiving your email, I will provide you with the registration code and download point.
