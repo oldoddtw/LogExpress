@@ -73,7 +73,7 @@ The installation process of LogExpress is simple.
 <br><br>
 
 ## Project Status
-- Released for testing on 2023/05/12.
+- Released for testing on 2023/04/12.
 - Officially announced on 2023/12/15.
 - The focus of the next stage: WebService, I/O control, OPC. Other topics are listed in the wishlist.
 - I have listed the features that users and testers would like to see added in a Wishlist on the discussion board.
